@@ -107,7 +107,7 @@ Label(user ,width=15,height=3,text="Slots").grid(row=5)
  
 # here we dispaly all parking slot info
 count=0
-row_in=0
+row_inc=0
 for i in list_slot: 
     if(i==""):
         Label(user ,width=15,height=3,text="free",bg="blue").grid(row=6+row_inc,column=count,padx=10,pady=10)
