@@ -1,0 +1,1600 @@
+1636566142: mosquitto version 2.0.13 starting
+1636566142: Config loaded from /etc/mosquitto/mosquitto.conf.
+1636566142: Opening ipv4 listen socket on port 1883.
+1636566142: Opening ipv6 listen socket on port 1883.
+1636566142: mosquitto version 2.0.13 running
+1636566165: New connection from 127.0.0.1:52615 on port 1883.
+1636566165: New client connected from 127.0.0.1:52615 as Server (p5, c1, k60, u'server').
+1636566165: No will message specified.
+1636566165: Sending CONNACK to Server (0, 0)
+1636566165: Received SUBSCRIBE from Server
+1636566165: 	PARK (QoS 0)
+1636566165: Server 0 PARK
+1636566165: 	EXIT (QoS 0)
+1636566165: Server 0 EXIT
+1636566165: Sending SUBACK to Server
+1636566181: New connection from 127.0.0.1:60573 on port 1883.
+1636566181: New client connected from 127.0.0.1:60573 as Sensor9 (p5, c1, k60, u'sensor').
+1636566181: No will message specified.
+1636566181: Sending CONNACK to Sensor9 (0, 0)
+1636566182: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566182: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566217: Client Sensor9 disconnected: Protocol error.
+1636566218: Client Server closed its connection.
+1636566256: New connection from 127.0.0.1:50585 on port 1883.
+1636566256: New client connected from 127.0.0.1:50585 as Server (p5, c1, k60, u'server').
+1636566256: No will message specified.
+1636566256: Sending CONNACK to Server (0, 0)
+1636566256: Received SUBSCRIBE from Server
+1636566256: 	PARK (QoS 0)
+1636566256: Server 0 PARK
+1636566256: 	EXIT (QoS 0)
+1636566256: Server 0 EXIT
+1636566256: Sending SUBACK to Server
+1636566260: New connection from 127.0.0.1:47169 on port 1883.
+1636566260: New client connected from 127.0.0.1:47169 as Sensor12 (p5, c1, k60, u'sensor').
+1636566260: No will message specified.
+1636566260: Sending CONNACK to Sensor12 (0, 0)
+1636566261: Received PUBLISH from Sensor12 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566261: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566351: Client Server has exceeded timeout, disconnecting.
+1636566351: Client Sensor12 has exceeded timeout, disconnecting.
+1636566360: New connection from 127.0.0.1:42225 on port 1883.
+1636566360: New client connected from 127.0.0.1:42225 as Server (p5, c1, k60, u'server').
+1636566360: No will message specified.
+1636566360: Sending CONNACK to Server (0, 0)
+1636566360: Received SUBSCRIBE from Server
+1636566360: 	PARK (QoS 0)
+1636566360: Server 0 PARK
+1636566360: 	EXIT (QoS 0)
+1636566360: Server 0 EXIT
+1636566360: Sending SUBACK to Server
+1636566364: New connection from 127.0.0.1:38019 on port 1883.
+1636566364: New client connected from 127.0.0.1:38019 as Sensor20 (p5, c1, k60, u'sensor').
+1636566364: No will message specified.
+1636566364: Sending CONNACK to Sensor20 (0, 0)
+1636566365: Received PUBLISH from Sensor20 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566365: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566394: Client Sensor20 disconnected: Protocol error.
+1636566394: Client Server closed its connection.
+1636566397: New connection from 127.0.0.1:34307 on port 1883.
+1636566397: New client connected from 127.0.0.1:34307 as Server (p5, c1, k60, u'server').
+1636566397: No will message specified.
+1636566397: Sending CONNACK to Server (0, 0)
+1636566397: Received SUBSCRIBE from Server
+1636566397: 	PARK (QoS 0)
+1636566397: Server 0 PARK
+1636566397: 	EXIT (QoS 0)
+1636566397: Server 0 EXIT
+1636566397: Sending SUBACK to Server
+1636566401: New connection from 127.0.0.1:60043 on port 1883.
+1636566401: New client connected from 127.0.0.1:60043 as Sensor19 (p5, c1, k60, u'sensor').
+1636566401: No will message specified.
+1636566401: Sending CONNACK to Sensor19 (0, 0)
+1636566402: Received PUBLISH from Sensor19 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566402: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566413: Client Sensor19 disconnected: Protocol error.
+1636566413: Client Server closed its connection.
+1636566431: New connection from 127.0.0.1:39199 on port 1883.
+1636566431: New client connected from 127.0.0.1:39199 as Server (p5, c1, k60, u'server').
+1636566431: No will message specified.
+1636566431: Sending CONNACK to Server (0, 0)
+1636566431: Received SUBSCRIBE from Server
+1636566431: 	PARK (QoS 0)
+1636566431: Server 0 PARK
+1636566431: 	EXIT (QoS 0)
+1636566431: Server 0 EXIT
+1636566431: Sending SUBACK to Server
+1636566435: New connection from 127.0.0.1:55379 on port 1883.
+1636566435: New client connected from 127.0.0.1:55379 as Sensor19 (p5, c1, k60, u'sensor').
+1636566435: No will message specified.
+1636566435: Sending CONNACK to Sensor19 (0, 0)
+1636566436: Received PUBLISH from Sensor19 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566436: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636566447: New connection from 127.0.0.1:43367 on port 1883.
+1636566447: New client connected from 127.0.0.1:43367 as Sensor7 (p5, c1, k60, u'sensor').
+1636566447: No will message specified.
+1636566447: Sending CONNACK to Sensor7 (0, 0)
+1636566448: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566448: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566457: New connection from 127.0.0.1:35793 on port 1883.
+1636566457: New client connected from 127.0.0.1:35793 as Sensor9 (p5, c1, k60, u'sensor').
+1636566457: No will message specified.
+1636566457: Sending CONNACK to Sensor9 (0, 0)
+1636566458: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566458: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566461: New connection from 127.0.0.1:38145 on port 1883.
+1636566461: New client connected from 127.0.0.1:38145 as Sensor3 (p5, c1, k60, u'sensor').
+1636566461: No will message specified.
+1636566461: Sending CONNACK to Sensor3 (0, 0)
+1636566462: Received PUBLISH from Sensor3 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566462: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566464: New connection from 127.0.0.1:52171 on port 1883.
+1636566464: New client connected from 127.0.0.1:52171 as Sensor4 (p5, c1, k60, u'sensor').
+1636566464: No will message specified.
+1636566464: Sending CONNACK to Sensor4 (0, 0)
+1636566465: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566465: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636566491: Received PINGREQ from Server
+1636566491: Sending PINGRESP to Server
+1636566493: Client Sensor4 disconnected: Protocol error.
+1636566493: Client Sensor3 disconnected: Protocol error.
+1636566493: Client Sensor9 disconnected: Protocol error.
+1636566493: Client Sensor7 disconnected: Protocol error.
+1636566493: Client Sensor19 disconnected: Protocol error.
+1636566493: Client Server closed its connection.
+1636566663: New connection from 127.0.0.1:44049 on port 1883.
+1636566663: New client connected from 127.0.0.1:44049 as Server (p5, c1, k60, u'server').
+1636566663: No will message specified.
+1636566663: Sending CONNACK to Server (0, 0)
+1636566663: Received SUBSCRIBE from Server
+1636566663: 	PARK (QoS 0)
+1636566663: Server 0 PARK
+1636566663: 	EXIT (QoS 0)
+1636566663: Server 0 EXIT
+1636566663: Sending SUBACK to Server
+1636566681: New connection from 127.0.0.1:35105 on port 1883.
+1636566681: New client connected from 127.0.0.1:35105 as Sensor19 (p5, c1, k60, u'sensor').
+1636566681: No will message specified.
+1636566681: Sending CONNACK to Sensor19 (0, 0)
+1636566682: Received PUBLISH from Sensor19 (d0, q2, r0, m1, 'PARK', ... (2 bytes))
+1636566682: Sending PUBREC to Sensor19 (m1, rc0)
+1636566722: New connection from 127.0.0.1:46661 on port 1883.
+1636566722: New client connected from 127.0.0.1:46661 as Sensor20 (p5, c1, k60, u'sensor').
+1636566722: No will message specified.
+1636566722: Sending CONNACK to Sensor20 (0, 0)
+1636566723: Received PINGREQ from Server
+1636566723: Sending PINGRESP to Server
+1636566723: Received PUBLISH from Sensor20 (d0, q2, r0, m1, 'PARK', ... (2 bytes))
+1636566723: Sending PUBREC to Sensor20 (m1, rc0)
+1636566769: Client Sensor19 disconnected: Protocol error.
+1636566769: Client Sensor20 disconnected: Protocol error.
+1636566769: Client Server closed its connection.
+1636566799: New connection from 127.0.0.1:57749 on port 1883.
+1636566799: New client connected from 127.0.0.1:57749 as Server (p5, c1, k60, u'server').
+1636566799: No will message specified.
+1636566799: Sending CONNACK to Server (0, 0)
+1636566799: Received SUBSCRIBE from Server
+1636566799: 	PARK (QoS 2)
+1636566799: Server 2 PARK
+1636566799: 	EXIT (QoS 2)
+1636566799: Server 2 EXIT
+1636566799: Sending SUBACK to Server
+1636566814: New connection from 127.0.0.1:56373 on port 1883.
+1636566814: New client connected from 127.0.0.1:56373 as Sensor5 (p5, c1, k60, u'sensor').
+1636566814: No will message specified.
+1636566814: Sending CONNACK to Sensor5 (0, 0)
+1636566815: Received PUBLISH from Sensor5 (d0, q2, r0, m1, 'PARK', ... (1 bytes))
+1636566815: Sending PUBREC to Sensor5 (m1, rc0)
+1636566859: Received PINGREQ from Server
+1636566859: Sending PINGRESP to Server
+1636566864: New connection from 127.0.0.1:57769 on port 1883.
+1636566864: New client connected from 127.0.0.1:57769 as Sensor3 (p5, c1, k60, u'sensor').
+1636566864: No will message specified.
+1636566864: Sending CONNACK to Sensor3 (0, 0)
+1636566865: Received PUBLISH from Sensor3 (d0, q2, r0, m1, 'PARK', ... (1 bytes))
+1636566865: Sending PUBREC to Sensor3 (m1, rc0)
+1636566870: Client Sensor5 disconnected: Protocol error.
+1636566870: New connection from 127.0.0.1:33383 on port 1883.
+1636566870: New client connected from 127.0.0.1:33383 as Sensor5 (p5, c1, k60, u'sensor').
+1636566870: No will message specified.
+1636566870: Sending CONNACK to Sensor5 (0, 0)
+1636566871: Received PUBLISH from Sensor5 (d0, q2, r0, m2, 'EXIT', ... (1 bytes))
+1636566871: Sending PUBREC to Sensor5 (m2, rc0)
+1636566879: New connection from 127.0.0.1:48849 on port 1883.
+1636566879: New client connected from 127.0.0.1:48849 as Sensor8 (p5, c1, k60, u'sensor').
+1636566879: No will message specified.
+1636566879: Sending CONNACK to Sensor8 (0, 0)
+1636566880: Received PUBLISH from Sensor8 (d0, q2, r0, m1, 'PARK', ... (1 bytes))
+1636566880: Sending PUBREC to Sensor8 (m1, rc0)
+1636566883: New connection from 127.0.0.1:46579 on port 1883.
+1636566883: New client connected from 127.0.0.1:46579 as Sensor6 (p5, c1, k60, u'sensor').
+1636566883: No will message specified.
+1636566883: Sending CONNACK to Sensor6 (0, 0)
+1636566884: Received PUBLISH from Sensor6 (d0, q2, r0, m1, 'PARK', ... (1 bytes))
+1636566884: Sending PUBREC to Sensor6 (m1, rc0)
+1636566919: Received PINGREQ from Server
+1636566919: Sending PINGRESP to Server
+1636566957: Client Sensor3 has exceeded timeout, disconnecting.
+1636566963: Client Sensor5 has exceeded timeout, disconnecting.
+1636566975: Client Sensor8 has exceeded timeout, disconnecting.
+1636566975: Client Sensor6 has exceeded timeout, disconnecting.
+1636566979: Received PINGREQ from Server
+1636566979: Sending PINGRESP to Server
+1636567039: Received PINGREQ from Server
+1636567039: Sending PINGRESP to Server
+1636567099: Received PINGREQ from Server
+1636567099: Sending PINGRESP to Server
+1636567160: Received PINGREQ from Server
+1636567160: Sending PINGRESP to Server
+1636567166: Client Server closed its connection.
+1636567168: New connection from 127.0.0.1:39209 on port 1883.
+1636567168: New client connected from 127.0.0.1:39209 as Server (p5, c1, k60, u'server').
+1636567168: No will message specified.
+1636567168: Sending CONNACK to Server (0, 0)
+1636567168: Received SUBSCRIBE from Server
+1636567168: 	PARK (QoS 1)
+1636567168: Server 1 PARK
+1636567168: 	EXIT (QoS 1)
+1636567168: Server 1 EXIT
+1636567168: Sending SUBACK to Server
+1636567172: New connection from 127.0.0.1:57693 on port 1883.
+1636567172: New client connected from 127.0.0.1:57693 as Sensor8 (p5, c1, k60, u'sensor').
+1636567172: No will message specified.
+1636567172: Sending CONNACK to Sensor8 (0, 0)
+1636567173: Received PUBLISH from Sensor8 (d0, q2, r0, m1, 'PARK', ... (1 bytes))
+1636567173: Sending PUBREC to Sensor8 (m1, rc0)
+1636567183: New connection from 127.0.0.1:43803 on port 1883.
+1636567183: New client connected from 127.0.0.1:43803 as Sensor20 (p5, c1, k60, u'sensor').
+1636567183: No will message specified.
+1636567183: Sending CONNACK to Sensor20 (0, 0)
+1636567184: Received PUBLISH from Sensor20 (d0, q2, r0, m1, 'PARK', ... (2 bytes))
+1636567184: Sending PUBREC to Sensor20 (m1, rc0)
+1636567209: Client Sensor8 disconnected: Protocol error.
+1636567209: Client Sensor20 disconnected: Protocol error.
+1636567209: Client Server closed its connection.
+1636567211: New connection from 127.0.0.1:34515 on port 1883.
+1636567211: New client connected from 127.0.0.1:34515 as Server (p5, c1, k60, u'server').
+1636567211: No will message specified.
+1636567211: Sending CONNACK to Server (0, 0)
+1636567211: Received SUBSCRIBE from Server
+1636567211: 	PARK (QoS 0)
+1636567211: Server 0 PARK
+1636567211: 	EXIT (QoS 0)
+1636567211: Server 0 EXIT
+1636567211: Sending SUBACK to Server
+1636567215: New connection from 127.0.0.1:46661 on port 1883.
+1636567215: New client connected from 127.0.0.1:46661 as Sensor5 (p5, c1, k60, u'sensor').
+1636567215: No will message specified.
+1636567215: Sending CONNACK to Sensor5 (0, 0)
+1636567216: Received PUBLISH from Sensor5 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636567216: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636567271: Received PINGREQ from Server
+1636567271: Sending PINGRESP to Server
+1636567285: New connection from 127.0.0.1:53771 on port 1883.
+1636567285: New client connected from 127.0.0.1:53771 as Sensor8 (p5, c1, k60, u'sensor').
+1636567285: No will message specified.
+1636567285: Sending CONNACK to Sensor8 (0, 0)
+1636567286: Received PUBLISH from Sensor8 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636567286: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636567311: Client Sensor5 has exceeded timeout, disconnecting.
+1636567332: Received PINGREQ from Server
+1636567332: Sending PINGRESP to Server
+1636567377: Client Sensor8 has exceeded timeout, disconnecting.
+1636567392: Received PINGREQ from Server
+1636567392: Sending PINGRESP to Server
+1636567452: Received PINGREQ from Server
+1636567452: Sending PINGRESP to Server
+1636567512: Received PINGREQ from Server
+1636567512: Sending PINGRESP to Server
+1636567526: Client Server closed its connection.
+1636567624: New connection from 127.0.0.1:37387 on port 1883.
+1636567624: New client connected from 127.0.0.1:37387 as Server (p5, c1, k60, u'server').
+1636567624: No will message specified.
+1636567624: Sending CONNACK to Server (0, 0)
+1636567625: Received SUBSCRIBE from Server
+1636567625: 	PARK (QoS 0)
+1636567625: Server 0 PARK
+1636567625: 	EXIT (QoS 0)
+1636567625: Server 0 EXIT
+1636567625: Sending SUBACK to Server
+1636567637: Client Server closed its connection.
+1636567655: New connection from 127.0.0.1:53901 on port 1883.
+1636567655: New client connected from 127.0.0.1:53901 as Server (p5, c1, k60, u'server').
+1636567655: No will message specified.
+1636567655: Sending CONNACK to Server (0, 0)
+1636567656: Received SUBSCRIBE from Server
+1636567656: 	PARK (QoS 2)
+1636567656: Server 2 PARK
+1636567656: 	EXIT (QoS 2)
+1636567656: Server 2 EXIT
+1636567656: Sending SUBACK to Server
+1636567680: New connection from 127.0.0.1:48847 on port 1883.
+1636567680: New client connected from 127.0.0.1:48847 as Sensor11 (p5, c1, k60, u'sensor').
+1636567680: No will message specified.
+1636567680: Sending CONNACK to Sensor11 (0, 0)
+1636567681: Received PUBLISH from Sensor11 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636567681: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636567697: Client Sensor11 disconnected: Protocol error.
+1636567697: New connection from 127.0.0.1:39455 on port 1883.
+1636567697: New client connected from 127.0.0.1:39455 as Sensor11 (p5, c1, k60, u'sensor').
+1636567697: No will message specified.
+1636567697: Sending CONNACK to Sensor11 (0, 0)
+1636567698: Received PUBLISH from Sensor11 (d0, q2, r0, m2, 'EXIT', ... (2 bytes))
+1636567698: Sending PUBREC to Sensor11 (m2, rc0)
+1636567715: Received PINGREQ from Server
+1636567715: Sending PINGRESP to Server
+1636567716: Client Sensor11 disconnected: Protocol error.
+1636567716: Client Server closed its connection.
+1636567942: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636567942: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636567942: Error: Permission denied.
+1636567999: New connection from 127.0.0.1:48207 on port 1883.
+1636567999: New client connected from 127.0.0.1:48207 as Server (p5, c1, k60, u'server').
+1636567999: No will message specified.
+1636567999: Sending CONNACK to Server (0, 0)
+1636568000: Received SUBSCRIBE from Server
+1636568000: 	PARK (QoS 2)
+1636568000: Server 2 PARK
+1636568000: 	EXIT (QoS 2)
+1636568000: Server 2 EXIT
+1636568000: Sending SUBACK to Server
+1636568005: New connection from 127.0.0.1:60515 on port 1883.
+1636568005: New client connected from 127.0.0.1:60515 as Sensor5 (p5, c1, k60, u'sensor').
+1636568005: No will message specified.
+1636568005: Sending CONNACK to Sensor5 (0, 0)
+1636568006: Received PUBLISH from Sensor5 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636568006: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636568018: Client Sensor5 disconnected: Protocol error.
+1636568018: New connection from 127.0.0.1:48749 on port 1883.
+1636568018: New client connected from 127.0.0.1:48749 as Sensor5 (p5, c1, k60, u'sensor').
+1636568018: No will message specified.
+1636568018: Sending CONNACK to Sensor5 (0, 0)
+1636568019: Received PUBLISH from Sensor5 (d0, q2, r0, m2, 'EXIT', ... (1 bytes))
+1636568019: Sending PUBREC to Sensor5 (m2, rc0)
+1636568060: Received PINGREQ from Server
+1636568060: Sending PINGRESP to Server
+1636568092: Client Sensor5 disconnected: Protocol error.
+1636568092: Client Server closed its connection.
+1636568105: New connection from 127.0.0.1:45933 on port 1883.
+1636568105: New client connected from 127.0.0.1:45933 as Server (p5, c1, k60, u'server').
+1636568105: No will message specified.
+1636568105: Sending CONNACK to Server (0, 0)
+1636568106: Received SUBSCRIBE from Server
+1636568106: 	PARK (QoS 2)
+1636568106: Server 2 PARK
+1636568106: 	EXIT (QoS 2)
+1636568106: Server 2 EXIT
+1636568106: Sending SUBACK to Server
+1636568123: New connection from 127.0.0.1:57271 on port 1883.
+1636568123: New client connected from 127.0.0.1:57271 as Sensor16 (p5, c1, k60, u'sensor').
+1636568123: No will message specified.
+1636568123: Sending CONNACK to Sensor16 (0, 0)
+1636568124: Received PUBLISH from Sensor16 (d0, q2, r0, m1, 'PARK', ... (2 bytes))
+1636568124: Sending PUBREC to Sensor16 (m1, rc0)
+1636568165: Received PINGREQ from Server
+1636568165: Sending PINGRESP to Server
+1636568217: Client Sensor16 has exceeded timeout, disconnecting.
+1636568225: Received PINGREQ from Server
+1636568225: Sending PINGRESP to Server
+1636568285: Received PINGREQ from Server
+1636568285: Sending PINGRESP to Server
+1636568337: Client Server closed its connection.
+1636568340: New connection from 127.0.0.1:54465 on port 1883.
+1636568340: New client connected from 127.0.0.1:54465 as Server (p5, c1, k60, u'server').
+1636568340: No will message specified.
+1636568340: Sending CONNACK to Server (0, 0)
+1636568341: Received SUBSCRIBE from Server
+1636568341: 	PARK (QoS 0)
+1636568341: Server 0 PARK
+1636568341: 	EXIT (QoS 0)
+1636568341: Server 0 EXIT
+1636568341: Sending SUBACK to Server
+1636568344: New connection from 127.0.0.1:43339 on port 1883.
+1636568344: New client connected from 127.0.0.1:43339 as Sensor16 (p5, c1, k60, u'sensor').
+1636568344: No will message specified.
+1636568344: Sending CONNACK to Sensor16 (0, 0)
+1636568345: Received PUBLISH from Sensor16 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636568345: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636568361: New connection from 127.0.0.1:35841 on port 1883.
+1636568361: New client connected from 127.0.0.1:35841 as Sensor20 (p5, c1, k60, u'sensor').
+1636568361: No will message specified.
+1636568361: Sending CONNACK to Sensor20 (0, 0)
+1636568362: Received PUBLISH from Sensor20 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636568362: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636568368: Client Sensor20 disconnected: Protocol error.
+1636568368: New connection from 127.0.0.1:35117 on port 1883.
+1636568368: New client connected from 127.0.0.1:35117 as Sensor20 (p5, c1, k60, u'sensor').
+1636568368: No will message specified.
+1636568368: Sending CONNACK to Sensor20 (0, 0)
+1636568369: Received PUBLISH from Sensor20 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636568369: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636568377: Client Sensor16 disconnected: Protocol error.
+1636568377: Client Sensor20 disconnected: Protocol error.
+1636568377: Client Server closed its connection.
+1636568655: New connection from 127.0.0.1:60521 on port 1883.
+1636568655: OpenSSL Error[0]: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1636568655: Client <unknown> disconnected: Protocol error.
+1636568656: Client connection from 127.0.0.1 failed: error:1408F10B:SSL routines:ssl3_get_record:wrong version number.
+1636568658: Client connection from 127.0.0.1 failed: error:1408F10B:SSL routines:ssl3_get_record:wrong version number.
+1636568659: New connection from 127.0.0.1:52681 on port 1883.
+1636568659: New client connected from 127.0.0.1:52681 as Sensor17 (p5, c1, k60, u'sensor').
+1636568659: No will message specified.
+1636568659: Sending CONNACK to Sensor17 (0, 0)
+1636568660: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636568662: Client connection from 127.0.0.1 failed: error:1408F10B:SSL routines:ssl3_get_record:wrong version number.
+1636568670: Client connection from 127.0.0.1 failed: error:1408F10B:SSL routines:ssl3_get_record:wrong version number.
+1636568686: Client connection from 127.0.0.1 failed: error:1408F10B:SSL routines:ssl3_get_record:wrong version number.
+1636568718: Client connection from 127.0.0.1 failed: error:1408F10B:SSL routines:ssl3_get_record:wrong version number.
+1636568727: Client Sensor17 disconnected: Protocol error.
+1636569371: Reloading config.
+1636597907: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636597907: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636597907: Error: Permission denied.
+1636608824: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636608824: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636608824: Error: Permission denied.
+1636609107: New connection from 127.0.0.1:51933 on port 1883.
+1636609107: New client connected from 127.0.0.1:51933 as Server (p5, c1, k60, u'server').
+1636609107: No will message specified.
+1636609107: Sending CONNACK to Server (0, 0)
+1636609108: Received SUBSCRIBE from Server
+1636609108: 	PARK (QoS 0)
+1636609108: Server 0 PARK
+1636609108: 	EXIT (QoS 0)
+1636609108: Server 0 EXIT
+1636609108: Sending SUBACK to Server
+1636609115: New connection from 127.0.0.1:55681 on port 1883.
+1636609115: New client connected from 127.0.0.1:55681 as Sensor3 (p5, c1, k60, u'sensor').
+1636609115: No will message specified.
+1636609115: Sending CONNACK to Sensor3 (0, 0)
+1636609116: Received PUBLISH from Sensor3 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636609116: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636609167: Received PINGREQ from Server
+1636609167: Sending PINGRESP to Server
+1636609211: Client Sensor3 has exceeded timeout, disconnecting.
+1636609227: Received PINGREQ from Server
+1636609227: Sending PINGRESP to Server
+1636609287: Received PINGREQ from Server
+1636609287: Sending PINGRESP to Server
+1636609347: Received PINGREQ from Server
+1636609347: Sending PINGRESP to Server
+1636609375: Client Server closed its connection.
+1636609424: New connection from 127.0.0.1:38293 on port 1883.
+1636609424: New client connected from 127.0.0.1:38293 as Server (p5, c1, k60, u'server').
+1636609424: No will message specified.
+1636609424: Sending CONNACK to Server (0, 0)
+1636609425: Received SUBSCRIBE from Server
+1636609425: 	PARK (QoS 0)
+1636609425: Server 0 PARK
+1636609425: 	EXIT (QoS 0)
+1636609425: Server 0 EXIT
+1636609425: Sending SUBACK to Server
+1636609429: New connection from 127.0.0.1:41359 on port 1883.
+1636609429: New client connected from 127.0.0.1:41359 as Sensor6 (p5, c1, k60, u'sensor').
+1636609429: No will message specified.
+1636609429: Sending CONNACK to Sensor6 (0, 0)
+1636609430: Received PUBLISH from Sensor6 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636609430: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636609480: Client Sensor6 disconnected: Protocol error.
+1636609480: Client Server closed its connection.
+1636609483: New connection from 127.0.0.1:38343 on port 1883.
+1636609483: New client connected from 127.0.0.1:38343 as Server (p5, c1, k60, u'server').
+1636609483: No will message specified.
+1636609483: Sending CONNACK to Server (0, 0)
+1636609484: Received SUBSCRIBE from Server
+1636609484: 	PARK (QoS 0)
+1636609484: Server 0 PARK
+1636609484: 	EXIT (QoS 0)
+1636609484: Server 0 EXIT
+1636609484: Sending SUBACK to Server
+1636609486: New connection from 127.0.0.1:38227 on port 1883.
+1636609486: New client connected from 127.0.0.1:38227 as Sensor19 (p5, c1, k60, u'sensor').
+1636609486: No will message specified.
+1636609486: Sending CONNACK to Sensor19 (0, 0)
+1636609487: Received PUBLISH from Sensor19 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636609487: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636609524: Client Sensor19 disconnected: Protocol error.
+1636609524: Client Server closed its connection.
+1636609527: New connection from 127.0.0.1:45287 on port 1883.
+1636609527: New client connected from 127.0.0.1:45287 as Server (p5, c1, k60, u'server').
+1636609527: No will message specified.
+1636609527: Sending CONNACK to Server (0, 0)
+1636609528: Received SUBSCRIBE from Server
+1636609528: 	PARK (QoS 0)
+1636609528: Server 0 PARK
+1636609528: 	EXIT (QoS 0)
+1636609528: Server 0 EXIT
+1636609528: Sending SUBACK to Server
+1636609582: Client Server closed its connection.
+1636609585: New connection from 127.0.0.1:53549 on port 1883.
+1636609585: New client connected from 127.0.0.1:53549 as Server (p5, c1, k60, u'server').
+1636609585: No will message specified.
+1636609585: Sending CONNACK to Server (0, 0)
+1636609586: Received SUBSCRIBE from Server
+1636609586: 	PARK (QoS 0)
+1636609586: Server 0 PARK
+1636609586: 	EXIT (QoS 0)
+1636609586: Server 0 EXIT
+1636609586: Sending SUBACK to Server
+1636609589: New connection from 127.0.0.1:54839 on port 1883.
+1636609589: New client connected from 127.0.0.1:54839 as Sensor10 (p5, c1, k60, u'sensor').
+1636609589: No will message specified.
+1636609589: Sending CONNACK to Sensor10 (0, 0)
+1636609590: Received PUBLISH from Sensor10 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636609590: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636609645: Received PINGREQ from Server
+1636609645: Sending PINGRESP to Server
+1636609685: Client Sensor10 has exceeded timeout, disconnecting.
+1636609706: Received PINGREQ from Server
+1636609706: Sending PINGRESP to Server
+1636609766: Received PINGREQ from Server
+1636609766: Sending PINGRESP to Server
+1636609826: Received PINGREQ from Server
+1636609826: Sending PINGRESP to Server
+1636609886: Received PINGREQ from Server
+1636609886: Sending PINGRESP to Server
+1636609946: Received PINGREQ from Server
+1636609946: Sending PINGRESP to Server
+1636610006: Received PINGREQ from Server
+1636610006: Sending PINGRESP to Server
+1636610039: Client Server closed its connection.
+1636610042: New connection from 127.0.0.1:40865 on port 1883.
+1636610042: New client connected from 127.0.0.1:40865 as Server (p5, c1, k60, u'server').
+1636610042: No will message specified.
+1636610042: Sending CONNACK to Server (0, 0)
+1636610043: Received SUBSCRIBE from Server
+1636610043: 	PARK (QoS 0)
+1636610043: Server 0 PARK
+1636610043: 	EXIT (QoS 0)
+1636610043: Server 0 EXIT
+1636610043: Sending SUBACK to Server
+1636610047: New connection from 127.0.0.1:53871 on port 1883.
+1636610047: New client connected from 127.0.0.1:53871 as Sensor4 (p5, c1, k60, u'sensor').
+1636610047: No will message specified.
+1636610047: Sending CONNACK to Sensor4 (0, 0)
+1636610048: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610048: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610068: Client Sensor4 disconnected: Protocol error.
+1636610068: Client Server closed its connection.
+1636610179: New connection from 127.0.0.1:60995 on port 1883.
+1636610179: New client connected from 127.0.0.1:60995 as Server (p5, c1, k60, u'server').
+1636610179: No will message specified.
+1636610179: Sending CONNACK to Server (0, 0)
+1636610180: Received SUBSCRIBE from Server
+1636610180: 	PARK (QoS 0)
+1636610180: Server 0 PARK
+1636610180: 	EXIT (QoS 0)
+1636610180: Server 0 EXIT
+1636610180: Sending SUBACK to Server
+1636610182: New connection from 127.0.0.1:56643 on port 1883.
+1636610182: New client connected from 127.0.0.1:56643 as Sensor7 (p5, c1, k60, u'sensor').
+1636610182: No will message specified.
+1636610182: Sending CONNACK to Sensor7 (0, 0)
+1636610183: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610183: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610189: New connection from 127.0.0.1:37055 on port 1883.
+1636610189: New client connected from 127.0.0.1:37055 as Sensor9 (p5, c1, k60, u'sensor').
+1636610189: No will message specified.
+1636610189: Sending CONNACK to Sensor9 (0, 0)
+1636610190: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610190: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610236: Client Sensor7 disconnected: Protocol error.
+1636610236: Client Sensor9 disconnected: Protocol error.
+1636610236: Client Server closed its connection.
+1636610240: New connection from 127.0.0.1:45773 on port 1883.
+1636610240: New client connected from 127.0.0.1:45773 as Server (p5, c1, k60, u'server').
+1636610240: No will message specified.
+1636610240: Sending CONNACK to Server (0, 0)
+1636610241: Received SUBSCRIBE from Server
+1636610241: 	PARK (QoS 0)
+1636610241: Server 0 PARK
+1636610241: 	EXIT (QoS 0)
+1636610241: Server 0 EXIT
+1636610241: Sending SUBACK to Server
+1636610250: New connection from 127.0.0.1:52309 on port 1883.
+1636610250: New client connected from 127.0.0.1:52309 as Sensor13 (p5, c1, k60, u'sensor').
+1636610250: No will message specified.
+1636610250: Sending CONNACK to Sensor13 (0, 0)
+1636610251: Received PUBLISH from Sensor13 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610251: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610294: New connection from 127.0.0.1:37675 on port 1883.
+1636610294: New client connected from 127.0.0.1:37675 as Sensor4 (p5, c1, k60, u'sensor').
+1636610294: No will message specified.
+1636610294: Sending CONNACK to Sensor4 (0, 0)
+1636610295: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610295: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610301: Received PINGREQ from Server
+1636610301: Sending PINGRESP to Server
+1636610345: Client Sensor13 has exceeded timeout, disconnecting.
+1636610361: Received PINGREQ from Server
+1636610361: Sending PINGRESP to Server
+1636610387: Client Sensor4 has exceeded timeout, disconnecting.
+1636610391: Client Server closed its connection.
+1636610394: New connection from 127.0.0.1:51093 on port 1883.
+1636610394: New client connected from 127.0.0.1:51093 as Server (p5, c1, k60, u'server').
+1636610394: No will message specified.
+1636610394: Sending CONNACK to Server (0, 0)
+1636610394: Received SUBSCRIBE from Server
+1636610394: 	PARK (QoS 0)
+1636610394: Server 0 PARK
+1636610394: 	EXIT (QoS 0)
+1636610394: Server 0 EXIT
+1636610394: Sending SUBACK to Server
+1636610398: New connection from 127.0.0.1:53083 on port 1883.
+1636610398: New client connected from 127.0.0.1:53083 as Sensor8 (p5, c1, k60, u'sensor').
+1636610398: No will message specified.
+1636610398: Sending CONNACK to Sensor8 (0, 0)
+1636610398: Received PUBLISH from Sensor8 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610398: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610405: New connection from 127.0.0.1:38295 on port 1883.
+1636610405: New client connected from 127.0.0.1:38295 as Sensor9 (p5, c1, k60, u'sensor').
+1636610405: No will message specified.
+1636610405: Sending CONNACK to Sensor9 (0, 0)
+1636610405: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610405: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610421: Client Server disconnected: Protocol error.
+1636610421: Client Sensor8 disconnected: Protocol error.
+1636610421: Client Sensor9 disconnected: Protocol error.
+1636610443: New connection from 127.0.0.1:51419 on port 1883.
+1636610443: New client connected from 127.0.0.1:51419 as Server (p5, c1, k60, u'server').
+1636610443: No will message specified.
+1636610443: Sending CONNACK to Server (0, 0)
+1636610443: Received SUBSCRIBE from Server
+1636610443: 	PARK (QoS 0)
+1636610443: Server 0 PARK
+1636610443: 	EXIT (QoS 0)
+1636610443: Server 0 EXIT
+1636610443: Sending SUBACK to Server
+1636610446: New connection from 127.0.0.1:33727 on port 1883.
+1636610446: New client connected from 127.0.0.1:33727 as Sensor6 (p5, c1, k60, u'sensor').
+1636610446: No will message specified.
+1636610446: Sending CONNACK to Sensor6 (0, 0)
+1636610447: Received PUBLISH from Sensor6 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610447: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610451: Client Server closed its connection.
+1636610451: Client Sensor6 disconnected: Protocol error.
+1636610489: New connection from 127.0.0.1:41239 on port 1883.
+1636610489: New client connected from 127.0.0.1:41239 as Server (p5, c1, k60, u'server').
+1636610489: No will message specified.
+1636610489: Sending CONNACK to Server (0, 0)
+1636610490: Received SUBSCRIBE from Server
+1636610490: 	PARK (QoS 0)
+1636610490: Server 0 PARK
+1636610490: 	EXIT (QoS 0)
+1636610490: Server 0 EXIT
+1636610490: Sending SUBACK to Server
+1636610494: New connection from 127.0.0.1:40693 on port 1883.
+1636610494: New client connected from 127.0.0.1:40693 as Sensor5 (p5, c1, k60, u'sensor').
+1636610494: No will message specified.
+1636610494: Sending CONNACK to Sensor5 (0, 0)
+1636610495: Received PUBLISH from Sensor5 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610495: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610505: Client Sensor5 disconnected: Protocol error.
+1636610505: Client Server closed its connection.
+1636610532: New connection from 127.0.0.1:41983 on port 1883.
+1636610532: New client connected from 127.0.0.1:41983 as Server (p5, c1, k60, u'server').
+1636610532: No will message specified.
+1636610532: Sending CONNACK to Server (0, 0)
+1636610532: Received SUBSCRIBE from Server
+1636610532: 	PARK (QoS 0)
+1636610532: Server 0 PARK
+1636610532: 	EXIT (QoS 0)
+1636610532: Server 0 EXIT
+1636610532: Sending SUBACK to Server
+1636610540: New connection from 127.0.0.1:41505 on port 1883.
+1636610540: New client connected from 127.0.0.1:41505 as Sensor12 (p5, c1, k60, u'sensor').
+1636610540: No will message specified.
+1636610540: Sending CONNACK to Sensor12 (0, 0)
+1636610541: Received PUBLISH from Sensor12 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610541: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610567: Client Sensor12 disconnected: Protocol error.
+1636610567: Client Server closed its connection.
+1636610571: New connection from 127.0.0.1:42671 on port 1883.
+1636610571: New client connected from 127.0.0.1:42671 as Server (p5, c1, k60, u'server').
+1636610571: No will message specified.
+1636610571: Sending CONNACK to Server (0, 0)
+1636610571: Received SUBSCRIBE from Server
+1636610571: 	PARK (QoS 0)
+1636610571: Server 0 PARK
+1636610571: 	EXIT (QoS 0)
+1636610571: Server 0 EXIT
+1636610571: Sending SUBACK to Server
+1636610574: New connection from 127.0.0.1:59323 on port 1883.
+1636610574: New client connected from 127.0.0.1:59323 as Sensor13 (p5, c1, k60, u'sensor').
+1636610574: No will message specified.
+1636610574: Sending CONNACK to Sensor13 (0, 0)
+1636610575: Received PUBLISH from Sensor13 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610575: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610584: New connection from 127.0.0.1:54033 on port 1883.
+1636610584: New client connected from 127.0.0.1:54033 as Sensor16 (p5, c1, k60, u'sensor').
+1636610584: No will message specified.
+1636610584: Sending CONNACK to Sensor16 (0, 0)
+1636610585: Received PUBLISH from Sensor16 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610585: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610590: Client Sensor13 disconnected: Protocol error.
+1636610590: Client Sensor16 disconnected: Protocol error.
+1636610590: Client Server closed its connection.
+1636610611: New connection from 127.0.0.1:40299 on port 1883.
+1636610611: New client connected from 127.0.0.1:40299 as Server (p5, c1, k60, u'server').
+1636610611: No will message specified.
+1636610611: Sending CONNACK to Server (0, 0)
+1636610611: Received SUBSCRIBE from Server
+1636610611: 	PARK (QoS 0)
+1636610611: Server 0 PARK
+1636610611: 	EXIT (QoS 0)
+1636610611: Server 0 EXIT
+1636610611: Sending SUBACK to Server
+1636610614: New connection from 127.0.0.1:35681 on port 1883.
+1636610614: New client connected from 127.0.0.1:35681 as Sensor9 (p5, c1, k60, u'sensor').
+1636610614: No will message specified.
+1636610614: Sending CONNACK to Sensor9 (0, 0)
+1636610614: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610614: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610625: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636610625: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636610625: Error: Permission denied.
+1636610628: New connection from 127.0.0.1:54539 on port 1883.
+1636610628: New client connected from 127.0.0.1:54539 as Sensor16 (p5, c1, k60, u'sensor').
+1636610628: No will message specified.
+1636610628: Sending CONNACK to Sensor16 (0, 0)
+1636610629: Received PUBLISH from Sensor16 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610629: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610637: Client Sensor9 disconnected: Protocol error.
+1636610637: Client Sensor16 disconnected: Protocol error.
+1636610637: Client Server closed its connection.
+1636610655: New connection from 127.0.0.1:51779 on port 1883.
+1636610655: New client connected from 127.0.0.1:51779 as Server (p5, c1, k60, u'server').
+1636610655: No will message specified.
+1636610655: Sending CONNACK to Server (0, 0)
+1636610655: Received SUBSCRIBE from Server
+1636610655: 	PARK (QoS 0)
+1636610655: Server 0 PARK
+1636610655: 	EXIT (QoS 0)
+1636610655: Server 0 EXIT
+1636610655: Sending SUBACK to Server
+1636610662: New connection from 127.0.0.1:46759 on port 1883.
+1636610662: New client connected from 127.0.0.1:46759 as Sensor6 (p5, c1, k60, u'sensor').
+1636610662: No will message specified.
+1636610662: Sending CONNACK to Sensor6 (0, 0)
+1636610663: Received PUBLISH from Sensor6 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610663: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636610669: New connection from 127.0.0.1:41699 on port 1883.
+1636610669: New client connected from 127.0.0.1:41699 as Sensor11 (p5, c1, k60, u'sensor').
+1636610669: No will message specified.
+1636610669: Sending CONNACK to Sensor11 (0, 0)
+1636610669: Received PUBLISH from Sensor11 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610669: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636610675: Client Sensor6 disconnected: Protocol error.
+1636610675: New connection from 127.0.0.1:50067 on port 1883.
+1636610675: New client connected from 127.0.0.1:50067 as Sensor6 (p5, c1, k60, u'sensor').
+1636610675: No will message specified.
+1636610675: Sending CONNACK to Sensor6 (0, 0)
+1636610676: Received PUBLISH from Sensor6 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636610676: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636610702: Client Sensor6 disconnected: Protocol error.
+1636610702: Client Sensor11 disconnected: Protocol error.
+1636610702: Client Server closed its connection.
+1636612426: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636612426: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636612426: Error: Permission denied.
+1636614227: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636614227: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636614227: Error: Permission denied.
+1636624990: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636624990: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636624990: Error: Permission denied.
+1636625107: New connection from 127.0.0.1:55967 on port 1883.
+1636625107: New client connected from 127.0.0.1:55967 as Server (p5, c1, k60, u'server').
+1636625107: No will message specified.
+1636625107: Sending CONNACK to Server (0, 0)
+1636625108: Received SUBSCRIBE from Server
+1636625108: 	PARK (QoS 0)
+1636625108: Server 0 PARK
+1636625108: 	EXIT (QoS 0)
+1636625108: Server 0 EXIT
+1636625108: Sending SUBACK to Server
+1636625115: New connection from 127.0.0.1:44489 on port 1883.
+1636625115: New client connected from 127.0.0.1:44489 as Sensor4 (p5, c1, k60, u'sensor').
+1636625115: No will message specified.
+1636625115: Sending CONNACK to Sensor4 (0, 0)
+1636625115: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625115: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625127: New connection from 127.0.0.1:47183 on port 1883.
+1636625127: New client connected from 127.0.0.1:47183 as Sensor20 (p5, c1, k60, u'sensor').
+1636625127: No will message specified.
+1636625127: Sending CONNACK to Sensor20 (0, 0)
+1636625128: Received PUBLISH from Sensor20 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625128: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625133: New connection from 127.0.0.1:58691 on port 1883.
+1636625133: New client connected from 127.0.0.1:58691 as Sensor10 (p5, c1, k60, u'sensor').
+1636625133: No will message specified.
+1636625133: Sending CONNACK to Sensor10 (0, 0)
+1636625134: Received PUBLISH from Sensor10 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625134: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625139: New connection from 127.0.0.1:33663 on port 1883.
+1636625139: New client connected from 127.0.0.1:33663 as Sensor8 (p5, c1, k60, u'sensor').
+1636625139: No will message specified.
+1636625139: Sending CONNACK to Sensor8 (0, 0)
+1636625139: Received PUBLISH from Sensor8 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625139: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625168: Received PINGREQ from Server
+1636625168: Sending PINGRESP to Server
+1636625169: New connection from 127.0.0.1:60469 on port 1883.
+1636625169: New client connected from 127.0.0.1:60469 as Sensor9 (p5, c1, k60, u'sensor').
+1636625169: No will message specified.
+1636625169: Sending CONNACK to Sensor9 (0, 0)
+1636625169: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625169: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625192: Client Sensor4 disconnected: Protocol error.
+1636625192: Client Sensor8 disconnected: Protocol error.
+1636625192: Client Sensor9 disconnected: Protocol error.
+1636625192: Client Sensor10 disconnected: Protocol error.
+1636625192: Client Sensor20 disconnected: Protocol error.
+1636625192: Client Server closed its connection.
+1636625308: New connection from 127.0.0.1:36143 on port 1883.
+1636625308: New client connected from 127.0.0.1:36143 as Server (p5, c1, k60, u'server').
+1636625308: No will message specified.
+1636625308: Sending CONNACK to Server (0, 0)
+1636625309: Received SUBSCRIBE from Server
+1636625309: 	PARK (QoS 0)
+1636625309: Server 0 PARK
+1636625309: 	EXIT (QoS 0)
+1636625309: Server 0 EXIT
+1636625309: Sending SUBACK to Server
+1636625314: New connection from 127.0.0.1:53869 on port 1883.
+1636625314: New client connected from 127.0.0.1:53869 as Sensor17 (p5, c1, k60, u'sensor').
+1636625314: No will message specified.
+1636625314: Sending CONNACK to Sensor17 (0, 0)
+1636625314: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625314: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625328: New connection from 127.0.0.1:47183 on port 1883.
+1636625328: New client connected from 127.0.0.1:47183 as Sensor18 (p5, c1, k60, u'sensor').
+1636625328: No will message specified.
+1636625328: Sending CONNACK to Sensor18 (0, 0)
+1636625328: Received PUBLISH from Sensor18 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625328: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625335: New connection from 127.0.0.1:48163 on port 1883.
+1636625335: New client connected from 127.0.0.1:48163 as Sensor9 (p5, c1, k60, u'sensor').
+1636625335: No will message specified.
+1636625335: Sending CONNACK to Sensor9 (0, 0)
+1636625336: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625336: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625344: Client Sensor17 disconnected: Protocol error.
+1636625344: New connection from 127.0.0.1:57415 on port 1883.
+1636625344: New client connected from 127.0.0.1:57415 as Sensor17 (p5, c1, k60, u'sensor').
+1636625344: No will message specified.
+1636625344: Sending CONNACK to Sensor17 (0, 0)
+1636625344: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636625344: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636625369: Received PINGREQ from Server
+1636625369: Sending PINGRESP to Server
+1636625371: Client Sensor9 disconnected: Protocol error.
+1636625371: Client Sensor17 disconnected: Protocol error.
+1636625371: Client Sensor18 disconnected: Protocol error.
+1636625371: Client Server closed its connection.
+1636625466: New connection from 127.0.0.1:35707 on port 1883.
+1636625466: New client connected from 127.0.0.1:35707 as Server (p5, c1, k60, u'server').
+1636625466: No will message specified.
+1636625466: Sending CONNACK to Server (0, 0)
+1636625467: Received SUBSCRIBE from Server
+1636625467: 	PARK (QoS 0)
+1636625467: Server 0 PARK
+1636625467: 	EXIT (QoS 0)
+1636625467: Server 0 EXIT
+1636625467: Sending SUBACK to Server
+1636625474: Client Server closed its connection.
+1636625918: New connection from 127.0.0.1:34963 on port 1883.
+1636625918: New client connected from 127.0.0.1:34963 as Server (p5, c1, k60, u'server').
+1636625918: No will message specified.
+1636625918: Sending CONNACK to Server (0, 0)
+1636625919: Received SUBSCRIBE from Server
+1636625919: 	PARK (QoS 0)
+1636625919: Server 0 PARK
+1636625919: 	EXIT (QoS 0)
+1636625919: Server 0 EXIT
+1636625919: Sending SUBACK to Server
+1636625929: New connection from 127.0.0.1:37621 on port 1883.
+1636625929: New client connected from 127.0.0.1:37621 as Sensor4 (p5, c1, k60, u'sensor').
+1636625929: No will message specified.
+1636625929: Sending CONNACK to Sensor4 (0, 0)
+1636625929: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625929: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625935: New connection from 127.0.0.1:50441 on port 1883.
+1636625935: New client connected from 127.0.0.1:50441 as Sensor12 (p5, c1, k60, u'sensor').
+1636625935: No will message specified.
+1636625935: Sending CONNACK to Sensor12 (0, 0)
+1636625935: Received PUBLISH from Sensor12 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625935: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625939: New connection from 127.0.0.1:36373 on port 1883.
+1636625939: New client connected from 127.0.0.1:36373 as Sensor16 (p5, c1, k60, u'sensor').
+1636625939: No will message specified.
+1636625939: Sending CONNACK to Sensor16 (0, 0)
+1636625939: Received PUBLISH from Sensor16 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625939: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625943: New connection from 127.0.0.1:51135 on port 1883.
+1636625943: New client connected from 127.0.0.1:51135 as Sensor3 (p5, c1, k60, u'sensor').
+1636625943: No will message specified.
+1636625943: Sending CONNACK to Sensor3 (0, 0)
+1636625943: Received PUBLISH from Sensor3 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625943: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636625946: New connection from 127.0.0.1:49987 on port 1883.
+1636625946: New client connected from 127.0.0.1:49987 as Sensor18 (p5, c1, k60, u'sensor').
+1636625946: No will message specified.
+1636625946: Sending CONNACK to Sensor18 (0, 0)
+1636625946: Received PUBLISH from Sensor18 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625946: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625950: New connection from 127.0.0.1:60555 on port 1883.
+1636625950: New client connected from 127.0.0.1:60555 as Sensor14 (p5, c1, k60, u'sensor').
+1636625950: No will message specified.
+1636625950: Sending CONNACK to Sensor14 (0, 0)
+1636625950: Received PUBLISH from Sensor14 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625950: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636625971: Client Sensor14 disconnected: Protocol error.
+1636625971: Client Sensor18 disconnected: Protocol error.
+1636625971: Client Sensor3 disconnected: Protocol error.
+1636625971: Client Sensor16 disconnected: Protocol error.
+1636625971: Client Sensor12 disconnected: Protocol error.
+1636625971: Client Sensor4 disconnected: Protocol error.
+1636625971: Client Server closed its connection.
+1636626049: New connection from 127.0.0.1:43605 on port 1883.
+1636626049: New client connected from 127.0.0.1:43605 as Server (p5, c1, k60, u'server').
+1636626049: No will message specified.
+1636626049: Sending CONNACK to Server (0, 0)
+1636626050: Received SUBSCRIBE from Server
+1636626050: 	PARK (QoS 0)
+1636626050: Server 0 PARK
+1636626050: 	EXIT (QoS 0)
+1636626050: Server 0 EXIT
+1636626050: Sending SUBACK to Server
+1636626059: Client Server closed its connection.
+1636626093: New connection from 127.0.0.1:49411 on port 1883.
+1636626093: New client connected from 127.0.0.1:49411 as Server (p5, c1, k60, u'server').
+1636626093: No will message specified.
+1636626093: Sending CONNACK to Server (0, 0)
+1636626093: Received SUBSCRIBE from Server
+1636626093: 	PARK (QoS 0)
+1636626093: Server 0 PARK
+1636626093: 	EXIT (QoS 0)
+1636626093: Server 0 EXIT
+1636626093: Sending SUBACK to Server
+1636626102: Client Server closed its connection.
+1636626118: New connection from 127.0.0.1:44671 on port 1883.
+1636626118: New client connected from 127.0.0.1:44671 as Server (p5, c1, k60, u'server').
+1636626118: No will message specified.
+1636626118: Sending CONNACK to Server (0, 0)
+1636626118: Received SUBSCRIBE from Server
+1636626118: 	PARK (QoS 0)
+1636626118: Server 0 PARK
+1636626118: 	EXIT (QoS 0)
+1636626118: Server 0 EXIT
+1636626118: Sending SUBACK to Server
+1636626160: Client Server closed its connection.
+1636626162: New connection from 127.0.0.1:36649 on port 1883.
+1636626162: New client connected from 127.0.0.1:36649 as Server (p5, c1, k60, u'server').
+1636626162: No will message specified.
+1636626162: Sending CONNACK to Server (0, 0)
+1636626163: Received SUBSCRIBE from Server
+1636626163: 	PARK (QoS 0)
+1636626163: Server 0 PARK
+1636626163: 	EXIT (QoS 0)
+1636626163: Server 0 EXIT
+1636626163: Sending SUBACK to Server
+1636626170: Client Server closed its connection.
+1636626186: New connection from 127.0.0.1:47567 on port 1883.
+1636626186: New client connected from 127.0.0.1:47567 as Server (p5, c1, k60, u'server').
+1636626186: No will message specified.
+1636626186: Sending CONNACK to Server (0, 0)
+1636626187: Received SUBSCRIBE from Server
+1636626187: 	PARK (QoS 0)
+1636626187: Server 0 PARK
+1636626187: 	EXIT (QoS 0)
+1636626187: Server 0 EXIT
+1636626187: Sending SUBACK to Server
+1636626194: New connection from 127.0.0.1:53813 on port 1883.
+1636626194: New client connected from 127.0.0.1:53813 as Sensor17 (p5, c1, k60, u'sensor').
+1636626194: No will message specified.
+1636626194: Sending CONNACK to Sensor17 (0, 0)
+1636626194: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636626194: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636626204: Client Sensor17 disconnected: Protocol error.
+1636626204: New connection from 127.0.0.1:39139 on port 1883.
+1636626204: New client connected from 127.0.0.1:39139 as Sensor17 (p5, c1, k60, u'sensor').
+1636626204: No will message specified.
+1636626204: Sending CONNACK to Sensor17 (0, 0)
+1636626205: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636626205: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636626230: Client Sensor17 disconnected: Protocol error.
+1636626230: Client Server closed its connection.
+1636626323: New connection from 127.0.0.1:57841 on port 1883.
+1636626323: New client connected from 127.0.0.1:57841 as Server (p5, c1, k60, u'server').
+1636626323: No will message specified.
+1636626323: Sending CONNACK to Server (0, 0)
+1636626323: Received SUBSCRIBE from Server
+1636626323: 	PARK (QoS 0)
+1636626323: Server 0 PARK
+1636626323: 	EXIT (QoS 0)
+1636626323: Server 0 EXIT
+1636626323: Sending SUBACK to Server
+1636626328: New connection from 127.0.0.1:46997 on port 1883.
+1636626328: New client connected from 127.0.0.1:46997 as Sensor4 (p5, c1, k60, u'sensor').
+1636626328: No will message specified.
+1636626328: Sending CONNACK to Sensor4 (0, 0)
+1636626328: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636626328: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636626337: Client Sensor4 disconnected: Protocol error.
+1636626337: Client Server closed its connection.
+1636626377: New connection from 127.0.0.1:52533 on port 1883.
+1636626377: New client connected from 127.0.0.1:52533 as Server (p5, c1, k60, u'server').
+1636626377: No will message specified.
+1636626377: Sending CONNACK to Server (0, 0)
+1636626378: Received SUBSCRIBE from Server
+1636626378: 	PARK (QoS 0)
+1636626378: Server 0 PARK
+1636626378: 	EXIT (QoS 0)
+1636626378: Server 0 EXIT
+1636626378: Sending SUBACK to Server
+1636626438: Received PINGREQ from Server
+1636626438: Sending PINGRESP to Server
+1636626498: Received PINGREQ from Server
+1636626498: Sending PINGRESP to Server
+1636626557: Client Server closed its connection.
+1636626560: New connection from 127.0.0.1:52573 on port 1883.
+1636626560: New client connected from 127.0.0.1:52573 as Server (p5, c1, k60, u'server').
+1636626560: No will message specified.
+1636626560: Sending CONNACK to Server (0, 0)
+1636626560: Received SUBSCRIBE from Server
+1636626560: 	PARK (QoS 0)
+1636626560: Server 0 PARK
+1636626560: 	EXIT (QoS 0)
+1636626560: Server 0 EXIT
+1636626560: Sending SUBACK to Server
+1636626566: New connection from 127.0.0.1:58203 on port 1883.
+1636626566: New client connected from 127.0.0.1:58203 as Sensor20 (p5, c1, k60, u'sensor').
+1636626566: No will message specified.
+1636626566: Sending CONNACK to Sensor20 (0, 0)
+1636626566: Received PUBLISH from Sensor20 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636626566: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636626584: New connection from 127.0.0.1:46397 on port 1883.
+1636626584: New client connected from 127.0.0.1:46397 as Sensor15 (p5, c1, k60, u'sensor').
+1636626584: No will message specified.
+1636626584: Sending CONNACK to Sensor15 (0, 0)
+1636626585: Received PUBLISH from Sensor15 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636626585: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636626602: New connection from 127.0.0.1:38289 on port 1883.
+1636626602: New client connected from 127.0.0.1:38289 as Sensor7 (p5, c1, k60, u'sensor').
+1636626602: No will message specified.
+1636626602: Sending CONNACK to Sensor7 (0, 0)
+1636626602: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636626602: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636626620: Received PINGREQ from Server
+1636626620: Sending PINGRESP to Server
+1636626658: Client Sensor20 has exceeded timeout, disconnecting.
+1636626676: Client Sensor15 has exceeded timeout, disconnecting.
+1636626680: Received PINGREQ from Server
+1636626680: Sending PINGRESP to Server
+1636626694: Client Sensor7 has exceeded timeout, disconnecting.
+1636626740: Received PINGREQ from Server
+1636626740: Sending PINGRESP to Server
+1636626791: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636626791: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636626791: Error: Permission denied.
+1636626801: Received PINGREQ from Server
+1636626801: Sending PINGRESP to Server
+1636626861: Received PINGREQ from Server
+1636626861: Sending PINGRESP to Server
+1636626921: Received PINGREQ from Server
+1636626921: Sending PINGRESP to Server
+1636626928: Client Server closed its connection.
+1636626932: New connection from 127.0.0.1:50881 on port 1883.
+1636626932: New client connected from 127.0.0.1:50881 as Server (p5, c1, k60, u'server').
+1636626932: No will message specified.
+1636626932: Sending CONNACK to Server (0, 0)
+1636626932: Received SUBSCRIBE from Server
+1636626932: 	PARK (QoS 0)
+1636626932: Server 0 PARK
+1636626932: 	EXIT (QoS 0)
+1636626932: Server 0 EXIT
+1636626932: Sending SUBACK to Server
+1636626941: New connection from 127.0.0.1:46127 on port 1883.
+1636626941: New client connected from 127.0.0.1:46127 as Sensor7 (p5, c1, k60, u'sensor').
+1636626941: No will message specified.
+1636626941: Sending CONNACK to Sensor7 (0, 0)
+1636626942: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636626942: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636626966: Client Sensor7 disconnected: Protocol error.
+1636626966: Client Server closed its connection.
+1636627001: New connection from 127.0.0.1:34301 on port 1883.
+1636627001: New client connected from 127.0.0.1:34301 as Server (p5, c1, k60, u'server').
+1636627001: No will message specified.
+1636627001: Sending CONNACK to Server (0, 0)
+1636627002: Received SUBSCRIBE from Server
+1636627002: 	PARK (QoS 0)
+1636627002: Server 0 PARK
+1636627002: 	EXIT (QoS 0)
+1636627002: Server 0 EXIT
+1636627002: Sending SUBACK to Server
+1636627012: New connection from 127.0.0.1:40383 on port 1883.
+1636627012: New client connected from 127.0.0.1:40383 as Sensor18 (p5, c1, k60, u'sensor').
+1636627012: No will message specified.
+1636627012: Sending CONNACK to Sensor18 (0, 0)
+1636627012: Received PUBLISH from Sensor18 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627012: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627048: New connection from 127.0.0.1:56711 on port 1883.
+1636627048: New client connected from 127.0.0.1:56711 as Sensor7 (p5, c1, k60, u'sensor').
+1636627048: No will message specified.
+1636627048: Sending CONNACK to Sensor7 (0, 0)
+1636627048: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627048: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627062: Received PINGREQ from Server
+1636627062: Sending PINGRESP to Server
+1636627067: Client Sensor7 disconnected: Protocol error.
+1636627067: Client Sensor18 disconnected: Protocol error.
+1636627068: Client Server closed its connection.
+1636627071: New connection from 127.0.0.1:34459 on port 1883.
+1636627071: New client connected from 127.0.0.1:34459 as Server (p5, c1, k60, u'server').
+1636627071: No will message specified.
+1636627071: Sending CONNACK to Server (0, 0)
+1636627072: Received SUBSCRIBE from Server
+1636627072: 	PARK (QoS 0)
+1636627072: Server 0 PARK
+1636627072: 	EXIT (QoS 0)
+1636627072: Server 0 EXIT
+1636627072: Sending SUBACK to Server
+1636627132: Received PINGREQ from Server
+1636627132: Sending PINGRESP to Server
+1636627192: Received PINGREQ from Server
+1636627192: Sending PINGRESP to Server
+1636627252: Received PINGREQ from Server
+1636627252: Sending PINGRESP to Server
+1636627262: Client Server closed its connection.
+1636627265: New connection from 127.0.0.1:51199 on port 1883.
+1636627265: New client connected from 127.0.0.1:51199 as Server (p5, c1, k60, u'server').
+1636627265: No will message specified.
+1636627265: Sending CONNACK to Server (0, 0)
+1636627265: Received SUBSCRIBE from Server
+1636627265: 	PARK (QoS 0)
+1636627265: Server 0 PARK
+1636627265: 	EXIT (QoS 0)
+1636627265: Server 0 EXIT
+1636627265: Sending SUBACK to Server
+1636627271: New connection from 127.0.0.1:51629 on port 1883.
+1636627271: New client connected from 127.0.0.1:51629 as Sensor11 (p5, c1, k60, u'sensor').
+1636627271: No will message specified.
+1636627271: Sending CONNACK to Sensor11 (0, 0)
+1636627271: Received PUBLISH from Sensor11 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627271: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627271: New connection from 127.0.0.1:58483 on port 1883.
+1636627271: New client connected from 127.0.0.1:58483 as Sensor18 (p5, c1, k60, u'sensor').
+1636627271: No will message specified.
+1636627271: Sending CONNACK to Sensor18 (0, 0)
+1636627271: Received PUBLISH from Sensor18 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627271: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627272: New connection from 127.0.0.1:46013 on port 1883.
+1636627272: New client connected from 127.0.0.1:46013 as Sensor19 (p5, c1, k60, u'sensor').
+1636627272: No will message specified.
+1636627272: Sending CONNACK to Sensor19 (0, 0)
+1636627273: Received PUBLISH from Sensor19 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627273: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627273: New connection from 127.0.0.1:41613 on port 1883.
+1636627273: New client connected from 127.0.0.1:41613 as Sensor17 (p5, c1, k60, u'sensor').
+1636627273: No will message specified.
+1636627273: Sending CONNACK to Sensor17 (0, 0)
+1636627274: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627274: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627274: New connection from 127.0.0.1:56783 on port 1883.
+1636627274: New client connected from 127.0.0.1:56783 as Sensor5 (p5, c1, k60, u'sensor').
+1636627274: No will message specified.
+1636627274: Sending CONNACK to Sensor5 (0, 0)
+1636627274: Received PUBLISH from Sensor5 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627274: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627274: New connection from 127.0.0.1:33333 on port 1883.
+1636627274: New client connected from 127.0.0.1:33333 as Sensor16 (p5, c1, k60, u'sensor').
+1636627274: No will message specified.
+1636627274: Sending CONNACK to Sensor16 (0, 0)
+1636627275: Received PUBLISH from Sensor16 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627275: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627275: New connection from 127.0.0.1:49573 on port 1883.
+1636627275: New client connected from 127.0.0.1:49573 as Sensor7 (p5, c1, k60, u'sensor').
+1636627275: No will message specified.
+1636627275: Sending CONNACK to Sensor7 (0, 0)
+1636627275: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627275: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627315: New connection from 127.0.0.1:52291 on port 1883.
+1636627315: New client connected from 127.0.0.1:52291 as Sensor6 (p5, c1, k60, u'sensor').
+1636627315: No will message specified.
+1636627315: Sending CONNACK to Sensor6 (0, 0)
+1636627316: Received PUBLISH from Sensor6 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627316: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627320: New connection from 127.0.0.1:38619 on port 1883.
+1636627320: New client connected from 127.0.0.1:38619 as Sensor8 (p5, c1, k60, u'sensor').
+1636627320: No will message specified.
+1636627320: Sending CONNACK to Sensor8 (0, 0)
+1636627320: Received PUBLISH from Sensor8 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627320: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627323: New connection from 127.0.0.1:38021 on port 1883.
+1636627323: New client connected from 127.0.0.1:38021 as Sensor15 (p5, c1, k60, u'sensor').
+1636627323: No will message specified.
+1636627323: Sending CONNACK to Sensor15 (0, 0)
+1636627324: Received PUBLISH from Sensor15 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627324: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627324: New connection from 127.0.0.1:55441 on port 1883.
+1636627324: New client connected from 127.0.0.1:55441 as Sensor3 (p5, c1, k60, u'sensor').
+1636627324: No will message specified.
+1636627324: Sending CONNACK to Sensor3 (0, 0)
+1636627324: Received PUBLISH from Sensor3 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627324: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627324: New connection from 127.0.0.1:52871 on port 1883.
+1636627324: New client connected from 127.0.0.1:52871 as Sensor9 (p5, c1, k60, u'sensor').
+1636627324: No will message specified.
+1636627324: Sending CONNACK to Sensor9 (0, 0)
+1636627325: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627325: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627325: New connection from 127.0.0.1:57717 on port 1883.
+1636627325: New client connected from 127.0.0.1:57717 as Sensor14 (p5, c1, k60, u'sensor').
+1636627325: No will message specified.
+1636627325: Sending CONNACK to Sensor14 (0, 0)
+1636627325: Received PUBLISH from Sensor14 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627325: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627327: Received PINGREQ from Server
+1636627327: Sending PINGRESP to Server
+1636627342: New connection from 127.0.0.1:52591 on port 1883.
+1636627342: New client connected from 127.0.0.1:52591 as Sensor13 (p5, c1, k60, u'sensor').
+1636627342: No will message specified.
+1636627342: Sending CONNACK to Sensor13 (0, 0)
+1636627342: Received PUBLISH from Sensor13 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627342: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627348: New connection from 127.0.0.1:58231 on port 1883.
+1636627348: New client connected from 127.0.0.1:58231 as Sensor10 (p5, c1, k60, u'sensor').
+1636627348: No will message specified.
+1636627348: Sending CONNACK to Sensor10 (0, 0)
+1636627348: Received PUBLISH from Sensor10 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627348: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627363: New connection from 127.0.0.1:58599 on port 1883.
+1636627363: New client connected from 127.0.0.1:58599 as Sensor1 (p5, c1, k60, u'sensor').
+1636627363: No will message specified.
+1636627363: Sending CONNACK to Sensor1 (0, 0)
+1636627363: Received PUBLISH from Sensor1 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627363: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627367: Client Sensor11 has exceeded timeout, disconnecting.
+1636627367: Client Sensor18 has exceeded timeout, disconnecting.
+1636627367: Client Sensor19 has exceeded timeout, disconnecting.
+1636627367: Client Sensor17 has exceeded timeout, disconnecting.
+1636627367: Client Sensor5 has exceeded timeout, disconnecting.
+1636627367: Client Sensor16 has exceeded timeout, disconnecting.
+1636627367: Client Sensor7 has exceeded timeout, disconnecting.
+1636627374: New connection from 127.0.0.1:35671 on port 1883.
+1636627374: New client connected from 127.0.0.1:35671 as Sensor12 (p5, c1, k60, u'sensor').
+1636627374: No will message specified.
+1636627374: Sending CONNACK to Sensor12 (0, 0)
+1636627374: Received PUBLISH from Sensor12 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627374: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627377: New connection from 127.0.0.1:46981 on port 1883.
+1636627377: New client connected from 127.0.0.1:46981 as Sensor4 (p5, c1, k60, u'sensor').
+1636627377: No will message specified.
+1636627377: Sending CONNACK to Sensor4 (0, 0)
+1636627377: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627377: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627377: New connection from 127.0.0.1:35173 on port 1883.
+1636627377: New client connected from 127.0.0.1:35173 as Sensor19 (p5, c1, k60, u'sensor').
+1636627377: No will message specified.
+1636627377: Sending CONNACK to Sensor19 (0, 0)
+1636627378: Received PUBLISH from Sensor19 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627378: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627378: New connection from 127.0.0.1:33719 on port 1883.
+1636627378: New client connected from 127.0.0.1:33719 as Sensor20 (p5, c1, k60, u'sensor').
+1636627378: No will message specified.
+1636627378: Sending CONNACK to Sensor20 (0, 0)
+1636627378: Received PUBLISH from Sensor20 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627378: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627378: New connection from 127.0.0.1:42335 on port 1883.
+1636627378: New client connected from 127.0.0.1:42335 as Sensor16 (p5, c1, k60, u'sensor').
+1636627378: No will message specified.
+1636627378: Sending CONNACK to Sensor16 (0, 0)
+1636627379: Received PUBLISH from Sensor16 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627379: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627379: New connection from 127.0.0.1:52365 on port 1883.
+1636627379: New client connected from 127.0.0.1:52365 as Sensor2 (p5, c1, k60, u'sensor').
+1636627379: No will message specified.
+1636627379: Sending CONNACK to Sensor2 (0, 0)
+1636627379: Received PUBLISH from Sensor2 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627379: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627379: New connection from 127.0.0.1:33021 on port 1883.
+1636627379: New client connected from 127.0.0.1:33021 as Sensor7 (p5, c1, k60, u'sensor').
+1636627379: No will message specified.
+1636627379: Sending CONNACK to Sensor7 (0, 0)
+1636627380: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627380: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627380: Client Sensor13 disconnected: Protocol error.
+1636627380: New connection from 127.0.0.1:51675 on port 1883.
+1636627380: New client connected from 127.0.0.1:51675 as Sensor13 (p5, c1, k60, u'sensor').
+1636627380: No will message specified.
+1636627380: Sending CONNACK to Sensor13 (0, 0)
+1636627380: Received PUBLISH from Sensor13 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627380: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627380: New connection from 127.0.0.1:34039 on port 1883.
+1636627380: New client connected from 127.0.0.1:34039 as Sensor5 (p5, c1, k60, u'sensor').
+1636627380: No will message specified.
+1636627380: Sending CONNACK to Sensor5 (0, 0)
+1636627381: Received PUBLISH from Sensor5 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627381: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627385: Client Sensor6 disconnected: Protocol error.
+1636627385: New connection from 127.0.0.1:59339 on port 1883.
+1636627385: New client connected from 127.0.0.1:59339 as Sensor6 (p5, c1, k60, u'sensor').
+1636627385: No will message specified.
+1636627385: Sending CONNACK to Sensor6 (0, 0)
+1636627386: Received PUBLISH from Sensor6 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627386: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627386: New connection from 127.0.0.1:39583 on port 1883.
+1636627386: New client connected from 127.0.0.1:39583 as Sensor18 (p5, c1, k60, u'sensor').
+1636627386: No will message specified.
+1636627386: Sending CONNACK to Sensor18 (0, 0)
+1636627386: Received PUBLISH from Sensor18 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627386: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627386: Client Sensor8 disconnected: Protocol error.
+1636627386: New connection from 127.0.0.1:57045 on port 1883.
+1636627386: New client connected from 127.0.0.1:57045 as Sensor8 (p5, c1, k60, u'sensor').
+1636627386: No will message specified.
+1636627386: Sending CONNACK to Sensor8 (0, 0)
+1636627387: Received PUBLISH from Sensor8 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627387: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627387: Client Sensor9 disconnected: Protocol error.
+1636627387: New connection from 127.0.0.1:48841 on port 1883.
+1636627387: New client connected from 127.0.0.1:48841 as Sensor9 (p5, c1, k60, u'sensor').
+1636627387: No will message specified.
+1636627387: Sending CONNACK to Sensor9 (0, 0)
+1636627387: Received PINGREQ from Server
+1636627387: Sending PINGRESP to Server
+1636627387: Received PUBLISH from Sensor9 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627387: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627390: New connection from 127.0.0.1:54409 on port 1883.
+1636627390: New client connected from 127.0.0.1:54409 as Sensor11 (p5, c1, k60, u'sensor').
+1636627390: No will message specified.
+1636627390: Sending CONNACK to Sensor11 (0, 0)
+1636627390: Received PUBLISH from Sensor11 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627390: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627390: Client Sensor14 disconnected: Protocol error.
+1636627390: New connection from 127.0.0.1:35729 on port 1883.
+1636627390: New client connected from 127.0.0.1:35729 as Sensor14 (p5, c1, k60, u'sensor').
+1636627390: No will message specified.
+1636627390: Sending CONNACK to Sensor14 (0, 0)
+1636627390: Received PUBLISH from Sensor14 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627390: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627394: Client Sensor15 disconnected: Protocol error.
+1636627394: New connection from 127.0.0.1:34259 on port 1883.
+1636627394: New client connected from 127.0.0.1:34259 as Sensor15 (p5, c1, k60, u'sensor').
+1636627394: No will message specified.
+1636627394: Sending CONNACK to Sensor15 (0, 0)
+1636627394: Received PUBLISH from Sensor15 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627394: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627397: Client Sensor3 disconnected: Protocol error.
+1636627397: New connection from 127.0.0.1:52827 on port 1883.
+1636627397: New client connected from 127.0.0.1:52827 as Sensor3 (p5, c1, k60, u'sensor').
+1636627397: No will message specified.
+1636627397: Sending CONNACK to Sensor3 (0, 0)
+1636627397: Received PUBLISH from Sensor3 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627397: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636627399: New connection from 127.0.0.1:47437 on port 1883.
+1636627399: New client connected from 127.0.0.1:47437 as Sensor17 (p5, c1, k60, u'sensor').
+1636627399: No will message specified.
+1636627399: Sending CONNACK to Sensor17 (0, 0)
+1636627400: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627400: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627401: Client Sensor10 disconnected: Protocol error.
+1636627401: New connection from 127.0.0.1:40311 on port 1883.
+1636627401: New client connected from 127.0.0.1:40311 as Sensor10 (p5, c1, k60, u'sensor').
+1636627401: No will message specified.
+1636627401: Sending CONNACK to Sensor10 (0, 0)
+1636627402: Received PUBLISH from Sensor10 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627402: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636627430: Client Sensor2 disconnected: Protocol error.
+1636627430: Client Sensor3 disconnected: Protocol error.
+1636627430: Client Sensor4 disconnected: Protocol error.
+1636627430: Client Sensor5 disconnected: Protocol error.
+1636627430: Client Sensor6 disconnected: Protocol error.
+1636627430: Client Sensor7 disconnected: Protocol error.
+1636627430: Client Sensor8 disconnected: Protocol error.
+1636627430: Client Sensor9 disconnected: Protocol error.
+1636627430: Client Sensor10 disconnected: Protocol error.
+1636627430: Client Sensor11 disconnected: Protocol error.
+1636627430: Client Sensor12 disconnected: Protocol error.
+1636627430: Client Sensor13 disconnected: Protocol error.
+1636627430: Client Sensor14 disconnected: Protocol error.
+1636627430: Client Sensor15 disconnected: Protocol error.
+1636627430: Client Sensor16 disconnected: Protocol error.
+1636627430: Client Sensor17 disconnected: Protocol error.
+1636627430: Client Sensor18 disconnected: Protocol error.
+1636627430: Client Sensor19 disconnected: Protocol error.
+1636627430: Client Sensor20 disconnected: Protocol error.
+1636627430: Client Sensor1 disconnected: Protocol error.
+1636627430: Client Server closed its connection.
+1636627857: New connection from 127.0.0.1:39641 on port 1883.
+1636627857: New client connected from 127.0.0.1:39641 as Server (p5, c1, k60, u'server').
+1636627857: No will message specified.
+1636627857: Sending CONNACK to Server (0, 0)
+1636627858: Received SUBSCRIBE from Server
+1636627858: 	PARK (QoS 0)
+1636627858: Server 0 PARK
+1636627858: 	EXIT (QoS 0)
+1636627858: Server 0 EXIT
+1636627858: Sending SUBACK to Server
+1636627862: New connection from 127.0.0.1:36431 on port 1883.
+1636627862: New client connected from 127.0.0.1:36431 as Sensor6 (p5, c1, k60, u'sensor').
+1636627862: No will message specified.
+1636627862: Sending CONNACK to Sensor6 (0, 0)
+1636627862: Received PUBLISH from Sensor6 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627862: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627863: Received DISCONNECT from Sensor6
+1636627863: Client Sensor6 disconnected.
+1636627884: New connection from 127.0.0.1:49137 on port 1883.
+1636627884: New client connected from 127.0.0.1:49137 as Sensor18 (p5, c1, k60, u'sensor').
+1636627884: No will message specified.
+1636627884: Sending CONNACK to Sensor18 (0, 0)
+1636627885: Received PUBLISH from Sensor18 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627885: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627885: Received DISCONNECT from Sensor18
+1636627885: Client Sensor18 disconnected.
+1636627885: New connection from 127.0.0.1:37797 on port 1883.
+1636627885: New client connected from 127.0.0.1:37797 as Sensor8 (p5, c1, k60, u'sensor').
+1636627885: No will message specified.
+1636627885: Sending CONNACK to Sensor8 (0, 0)
+1636627885: Received PUBLISH from Sensor8 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627885: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627885: Received DISCONNECT from Sensor8
+1636627885: Client Sensor8 disconnected.
+1636627885: New connection from 127.0.0.1:55343 on port 1883.
+1636627885: New client connected from 127.0.0.1:55343 as Sensor14 (p5, c1, k60, u'sensor').
+1636627885: No will message specified.
+1636627885: Sending CONNACK to Sensor14 (0, 0)
+1636627886: Received PUBLISH from Sensor14 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627886: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627886: Received DISCONNECT from Sensor14
+1636627886: Client Sensor14 disconnected.
+1636627886: New connection from 127.0.0.1:44863 on port 1883.
+1636627886: New client connected from 127.0.0.1:44863 as Sensor7 (p5, c1, k60, u'sensor').
+1636627886: No will message specified.
+1636627886: Sending CONNACK to Sensor7 (0, 0)
+1636627886: Received PUBLISH from Sensor7 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627886: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636627886: Received DISCONNECT from Sensor7
+1636627886: Client Sensor7 disconnected.
+1636627886: New connection from 127.0.0.1:40853 on port 1883.
+1636627886: New client connected from 127.0.0.1:40853 as Sensor19 (p5, c1, k60, u'sensor').
+1636627886: No will message specified.
+1636627886: Sending CONNACK to Sensor19 (0, 0)
+1636627887: Received PUBLISH from Sensor19 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627887: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636627887: Received DISCONNECT from Sensor19
+1636627887: Client Sensor19 disconnected.
+1636627917: Received PINGREQ from Server
+1636627917: Sending PINGRESP to Server
+1636627945: Client Server closed its connection.
+1636628038: New connection from 127.0.0.1:58019 on port 1883.
+1636628038: New client connected from 127.0.0.1:58019 as Server (p5, c1, k60, u'server').
+1636628038: No will message specified.
+1636628038: Sending CONNACK to Server (0, 0)
+1636628038: Received SUBSCRIBE from Server
+1636628038: 	PARK (QoS 0)
+1636628038: Server 0 PARK
+1636628038: 	EXIT (QoS 0)
+1636628038: Server 0 EXIT
+1636628038: Sending SUBACK to Server
+1636628051: New connection from 127.0.0.1:42275 on port 1883.
+1636628051: New client connected from 127.0.0.1:42275 as Sensor15 (p5, c1, k60, u'sensor').
+1636628051: No will message specified.
+1636628051: Sending CONNACK to Sensor15 (0, 0)
+1636628051: Received PUBLISH from Sensor15 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628051: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628051: Received DISCONNECT from Sensor15
+1636628051: Client Sensor15 disconnected.
+1636628064: New connection from 127.0.0.1:60719 on port 1883.
+1636628064: New client connected from 127.0.0.1:60719 as Sensor4 (p5, c1, k60, u'sensor').
+1636628064: No will message specified.
+1636628064: Sending CONNACK to Sensor4 (0, 0)
+1636628064: Received PUBLISH from Sensor4 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636628064: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636628064: Received DISCONNECT from Sensor4
+1636628064: Client Sensor4 disconnected.
+1636628070: Client Server closed its connection.
+1636628592: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636628592: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636628592: Error: Permission denied.
+1636628869: New connection from 127.0.0.1:52647 on port 1883.
+1636628869: New client connected from 127.0.0.1:52647 as Server (p5, c1, k60, u'server').
+1636628869: No will message specified.
+1636628869: Sending CONNACK to Server (0, 0)
+1636628869: Received SUBSCRIBE from Server
+1636628869: 	PARK (QoS 0)
+1636628869: Server 0 PARK
+1636628869: 	EXIT (QoS 0)
+1636628869: Server 0 EXIT
+1636628869: Sending SUBACK to Server
+1636628903: New connection from 127.0.0.1:50795 on port 1883.
+1636628903: New client connected from 127.0.0.1:50795 as Sensor13 (p5, c1, k60, u'sensor').
+1636628903: No will message specified.
+1636628903: Sending CONNACK to Sensor13 (0, 0)
+1636628904: Received PUBLISH from Sensor13 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628904: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628904: Received DISCONNECT from Sensor13
+1636628904: Client Sensor13 disconnected.
+1636628920: New connection from 127.0.0.1:50009 on port 1883.
+1636628920: New client connected from 127.0.0.1:50009 as Sensor15 (p5, c1, k60, u'sensor').
+1636628920: No will message specified.
+1636628920: Sending CONNACK to Sensor15 (0, 0)
+1636628920: Received PUBLISH from Sensor15 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628920: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628920: Received DISCONNECT from Sensor15
+1636628920: Client Sensor15 disconnected.
+1636628920: New connection from 127.0.0.1:40017 on port 1883.
+1636628920: New client connected from 127.0.0.1:40017 as Sensor17 (p5, c1, k60, u'sensor').
+1636628920: No will message specified.
+1636628920: Sending CONNACK to Sensor17 (0, 0)
+1636628921: Received PUBLISH from Sensor17 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628921: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636628921: Received DISCONNECT from Sensor17
+1636628921: Client Sensor17 disconnected.
+1636628929: Received PINGREQ from Server
+1636628929: Sending PINGRESP to Server
+1636628955: New connection from 127.0.0.1:38269 on port 1883.
+1636628955: New client connected from 127.0.0.1:38269 as Sensor1 (p5, c1, k60, u'sensor').
+1636628955: No will message specified.
+1636628955: Sending CONNACK to Sensor1 (0, 0)
+1636628955: Received PUBLISH from Sensor1 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636628955: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636628956: Received DISCONNECT from Sensor1
+1636628956: Client Sensor1 disconnected.
+1636628965: New connection from 127.0.0.1:53331 on port 1883.
+1636628965: New client connected from 127.0.0.1:53331 as Sensor2 (p5, c1, k60, u'sensor').
+1636628965: No will message specified.
+1636628965: Sending CONNACK to Sensor2 (0, 0)
+1636628965: Received PUBLISH from Sensor2 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636628965: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636628965: Received DISCONNECT from Sensor2
+1636628965: Client Sensor2 disconnected.
+1636628965: New connection from 127.0.0.1:56309 on port 1883.
+1636628965: New client connected from 127.0.0.1:56309 as Sensor12 (p5, c1, k60, u'sensor').
+1636628965: No will message specified.
+1636628965: Sending CONNACK to Sensor12 (0, 0)
+1636628966: Received PUBLISH from Sensor12 (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636628966: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (2 bytes))
+1636628966: Received DISCONNECT from Sensor12
+1636628966: Client Sensor12 disconnected.
+1636628990: Received PINGREQ from Server
+1636628990: Sending PINGRESP to Server
+1636629003: Client Server closed its connection.
+1636630684: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1636630684: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1636630684: Error: Permission denied.
+1636631564: New connection from 127.0.0.1:48677 on port 1883.
+1636631564: New client connected from 127.0.0.1:48677 as Server (p5, c1, k60, u'server').
+1636631564: No will message specified.
+1636631564: Sending CONNACK to Server (0, 0)
+1636631565: Received SUBSCRIBE from Server
+1636631565: 	PARK (QoS 0)
+1636631565: Server 0 PARK
+1636631565: 	EXIT (QoS 0)
+1636631565: Server 0 EXIT
+1636631565: Sending SUBACK to Server
+1636631576: New connection from 127.0.0.1:47591 on port 1883.
+1636631576: New client connected from 127.0.0.1:47591 as Sensor16 (p5, c1, k60, u'sensor').
+1636631576: No will message specified.
+1636631576: Sending CONNACK to Sensor16 (0, 0)
+1636631576: Received PUBLISH from Sensor16 (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636631576: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (2 bytes))
+1636631577: Received DISCONNECT from Sensor16
+1636631577: Client Sensor16 disconnected.
+1636631593: New connection from 127.0.0.1:42697 on port 1883.
+1636631593: New client connected from 127.0.0.1:42697 as Sensor1 (p5, c1, k60, u'sensor').
+1636631593: No will message specified.
+1636631593: Sending CONNACK to Sensor1 (0, 0)
+1636631593: Received PUBLISH from Sensor1 (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636631593: Sending PUBLISH to Server (d0, q0, r0, m0, 'EXIT', ... (1 bytes))
+1636631594: Received DISCONNECT from Sensor1
+1636631594: Client Sensor1 disconnected.
+1636631625: Received PINGREQ from Server
+1636631625: Sending PINGRESP to Server
+1636631685: Received PINGREQ from Server
+1636631685: Sending PINGRESP to Server
+1636631746: Received PINGREQ from Server
+1636631746: Sending PINGRESP to Server
+1636631806: Received PINGREQ from Server
+1636631806: Sending PINGRESP to Server
+1636631866: Received PINGREQ from Server
+1636631866: Sending PINGRESP to Server
+1636631926: Received PINGREQ from Server
+1636631926: Sending PINGRESP to Server
+1636631986: Received PINGREQ from Server
+1636631986: Sending PINGRESP to Server
+1636632046: Received PINGREQ from Server
+1636632046: Sending PINGRESP to Server
+1636632077: New connection from 127.0.0.1:34195 on port 1883.
+1636632077: New client connected from 127.0.0.1:34195 as Sensor5 (p5, c1, k60, u'sensor').
+1636632077: No will message specified.
+1636632077: Sending CONNACK to Sensor5 (0, 0)
+1636632078: Received PUBLISH from Sensor5 (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636632078: Sending PUBLISH to Server (d0, q0, r0, m0, 'PARK', ... (1 bytes))
+1636632078: Received DISCONNECT from Sensor5
+1636632078: Client Sensor5 disconnected.
+1636632106: Received PINGREQ from Server
+1636632106: Sending PINGRESP to Server
+1636632128: Client Server closed its connection.
